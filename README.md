@@ -1,5 +1,5 @@
 # Power BI Impacta
-### Curso de Power BI
+### Curso de Power BI na Impacta Tecnologia
 #### :computer: Temas abordados durante o curso foram :rocket:
 - Apresentação
 - Introdução
