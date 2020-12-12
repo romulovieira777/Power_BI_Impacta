@@ -9,3 +9,6 @@
 - Ferramenta de Modelagem (Power Pivot)
 - Ferramenta de Reltório (Power View)
 - Power BI online
+
+Link para o curso:
+[Impacta Tecnologia](https://impacta.com.br/online/Power-BI-Desktop-online.php)
